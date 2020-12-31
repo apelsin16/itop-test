@@ -64,10 +64,10 @@ export default class App extends Component {
   };
 
   render() {
-    const {isWorking, paused, start, timeInterval} = this.state;
-    const seconds = Math.trunc(Math.floor(timeInterval / 1000)*10)/10;
-    const minutes = Math.floor(seconds / 60);
-    const hours = Math.floor(minutes / 60);
+    const {isWorking, paused, timeInterval} = this.state;
+    const seconds = Math.floor((timeInterval / 1000)%60);
+    const minutes = Math.floor((timeInterval /1000/ 60)%60);
+    const hours = Math.floor((timeInterval / (1000*60*60))%24);
 
 
     return (
