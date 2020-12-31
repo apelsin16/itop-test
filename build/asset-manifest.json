@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/itop-test/build/static/css/main.06da120b.chunk.css",
+    "main.js": "/itop-test/build/static/js/main.8cc91dca.chunk.js",
+    "main.js.map": "/itop-test/build/static/js/main.8cc91dca.chunk.js.map",
+    "runtime-main.js": "/itop-test/build/static/js/runtime-main.55586b3b.js",
+    "runtime-main.js.map": "/itop-test/build/static/js/runtime-main.55586b3b.js.map",
+    "static/js/2.ff6a0c43.chunk.js": "/itop-test/build/static/js/2.ff6a0c43.chunk.js",
+    "static/js/2.ff6a0c43.chunk.js.map": "/itop-test/build/static/js/2.ff6a0c43.chunk.js.map",
+    "static/js/3.4596a6bf.chunk.js": "/itop-test/build/static/js/3.4596a6bf.chunk.js",
+    "static/js/3.4596a6bf.chunk.js.map": "/itop-test/build/static/js/3.4596a6bf.chunk.js.map",
+    "index.html": "/itop-test/build/index.html",
+    "static/css/main.06da120b.chunk.css.map": "/itop-test/build/static/css/main.06da120b.chunk.css.map",
+    "static/js/2.ff6a0c43.chunk.js.LICENSE.txt": "/itop-test/build/static/js/2.ff6a0c43.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.55586b3b.js",
+    "static/js/2.ff6a0c43.chunk.js",
+    "static/css/main.06da120b.chunk.css",
+    "static/js/main.8cc91dca.chunk.js"
+  ]
+}

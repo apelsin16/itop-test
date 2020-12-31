@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/button/Button.module.css","webpack://src/components/app/App.css"],"names":[],"mappings":"AAAA,sBACI,iBAAkB,CAClB,gBACJ,CCHA,MACI,gBACJ","file":"main.06da120b.chunk.css","sourcesContent":[".button {\r\n    margin-right: 10px;\r\n    margin-left: 10px;\r\n}\r\n",".span {\r\n    margin-left: 10px;\r\n}\r\n"]}
